@@ -1,1 +1,1 @@
-Hi testing rebase
+Hi testing rebase command
